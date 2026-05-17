@@ -1,0 +1,8 @@
+{
+  "name": "LEMAR Exhibition Stand Portfolio",
+  "description": "A high-end architectural portfolio showcase for LEMAR Lighting's exhibition stand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
